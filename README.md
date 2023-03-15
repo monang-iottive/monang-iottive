@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monang-iottive
-- 👀 I’m interested in Developing
-- 🌱 I’m currently BLE
+- 👀 I’m interested in create code for new inovation.
+- 🌱 Think Differant 
 - 📫 monang.champaneri@iottive.com
 
 <!---
